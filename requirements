@@ -9,4 +9,23 @@ For the following requirements we need to screenshot a answer. No text possible 
 3. The System shall allow a review of the events of a Vehicles activity (location/time/boarding/alighting) to assist with any incident analysis. For example, investigation of complaints. Retention period to be configurable .
 --> investigation of complaints + retention period to be configurable unclear where to find a screenshot
 
+
+4. The System shall provide the functionality to configure new and update existing fare types.
+-_> screenshot where you configure payment would be highly appreciated since I dont know how to do that on demo
+
+5. Distance fares to include a boarding charge plus "as the crow flies" add-ons which results in an aggregate charge, e.g. boarding charge is €1. Every additional 20km is 50c so a Trip with a distance of 60km would cost € 2.50. All component charges to be configurable.
+
+6. Time based, e.g. based on the duration of the Trip;  
+--> is this possible regarding payment?
+
+7. Flat rate – same charge regardless of distance; 
+--> price matrix setup
+
+8. “Vulnerable person” rate  -can be used at the discretion of the Driver to allow a Passenger identified as “vulnerable” to board at a nominal fee and record the Passenger for capacity and tracking purposes; 
+
+9. Ability to charge a premium, e.g. for door to door pick-ups , night time SDRT Service; 
+--> is this possible?
+
+10. The System shall enable the ability to add and remove/disable payment methods at System level. 
+
 thanks!
