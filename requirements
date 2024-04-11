@@ -1,0 +1,12 @@
+For the following requirements we need to screenshot a answer. No text possible but a screenshot per requirement.
+
+1. The System shall allow access to historic and archived data and retrieval of data for a specific date and also for a time period. All database-stored information shall be retained for a minimum number of years as defined in the Data Protection policy for the purposes of audit and data analysis. Retention period to be configurable.
+--> second part of this requirement I don't know how to proove. Is there a setting in the system per se which could be screenshotted here as response?
+
+2. The System shall retain all audit logs for a period of 180 days. Retention period to be configurable.
+--> screenshot needed
+
+3. The System shall allow a review of the events of a Vehicles activity (location/time/boarding/alighting) to assist with any incident analysis. For example, investigation of complaints. Retention period to be configurable .
+--> investigation of complaints + retention period to be configurable unclear where to find a screenshot
+
+thanks!
